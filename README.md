@@ -1,5 +1,9 @@
 # Oil & NK — dashboard interactivo
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nkoil-dashboard.streamlit.app/)
+
+**App en vivo → https://nkoil-dashboard.streamlit.app/**
+
 App interactiva para "jugar" con los parámetros de un modelo de **shocks de petróleo
 y política monetaria** y ver las IRFs en vivo. Hay **un único modelo maestro**
 (Blanchard–Galí estructural, petróleo en producción y consumo); los demás modelos
